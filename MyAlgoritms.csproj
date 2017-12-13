@@ -57,8 +57,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BigNumber.cs" />
+    <Compile Include="DataStructure\BigNumber.cs" />
+    <Compile Include="DataStructure\DynamicArray.cs" />
+    <Compile Include="Interfeices\IDynamicArray.cs" />
     <Compile Include="MainAlgoritmsHelper.cs" />
+    <Compile Include="DataStructure\MyArrays.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
